@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dcproxy-exe
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Discord @ dcproxy
